@@ -46,7 +46,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/your-username/KalmApp.git
+git clone https://github.com/ImSpxrsh/KalmCo
 cd KalmApp
 Install dependencies:
 
