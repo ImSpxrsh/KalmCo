@@ -1,0 +1,10 @@
+{
+    "name": "Kalm",
+    "scripts": {
+        "dev": "expo start"
+    },
+    "dependencies": {
+        "expo": "^52.0.37",
+        "react-native": "^0.78.0"
+    }
+}
